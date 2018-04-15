@@ -1,0 +1,2 @@
+Para encontrar as funções basicas do python,MUITO IMPORTANTE:
+https://docs.python.org/3/library/functions.html
